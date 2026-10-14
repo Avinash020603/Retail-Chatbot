@@ -1,4 +1,4 @@
-# Excel Query-Answering Chatbot — Project Specification
+.# Excel Query-Answering Chatbot — Project Specification
 
 ## 1. Project Overview
 
