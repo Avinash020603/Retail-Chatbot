@@ -1,2 +1,4 @@
 .retailbot/
 .env
+data/processed/
+data/test/
