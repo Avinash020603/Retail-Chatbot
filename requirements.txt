@@ -10,3 +10,5 @@ numpy
 sqlite-vec
 sentence-transformers
 streamlit
+chromadb
+groq
