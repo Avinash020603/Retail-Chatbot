@@ -1,0 +1,12 @@
+pandas
+openpyxl
+xlrd
+sqlglot
+python-dotenv
+pytest
+argparse
+pathlib
+numpy
+sqlite-vec
+sentence-transformers
+streamlit
